@@ -15,6 +15,9 @@ Then predicted the dataset.
 Clustering is performed in that I have applied k-means clustering using sklearn.cluster
 It is shown using the graph.
 
+![Cluster](https://github.com/ritika-varpe/Aviation-Data-Analysis-ML/assets/95220140/54390b1e-4b55-4117-93d0-03f4196bdfc3)
+
+
 The last part is the decision tree. The feature columns taken are :
     (feature_cols=['totalReceived','activeGrievancesWithoutEscalation','grievancesAdditionalInfoNotProvided','grievancesWithoutFeedback'])
     
